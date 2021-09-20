@@ -18,3 +18,4 @@ Currently styling of the app is minimal.
 In order to progress this app further and have a fantastic design and visual effects - more time on this task is needed.
 
 Made by: Boyan Krastenyakov 
+react-native version: 0.65.1
